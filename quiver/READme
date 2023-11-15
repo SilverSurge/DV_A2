@@ -1,0 +1,17 @@
+november2013_data : 
+-> Contains two files namely zonal and meridonal.
+-> zonal contains zonal wind speed data for various dates of november 2013..
+-> meridonal folder contains meridonal wind speed data file for various dates of november 2013.
+
+Quiver_images:
+This folder contains all the quiver images created by the code
+
+Quiver_animation.gif:
+This gif is created using all the images in quiver images
+
+Basic_dataset.nc:
+This sample dataset was used to extract the longitude and latitude once so that after extraction these values can be used again in the future without the need of calculating latitudes and longitudes again.
+
+quiver_plot.ipynb:
+This code creates the quiver images using the data files stored in november213_data. Then these images are used for creating the gif.
+-> For recreating the images with different setting just add more data to data folder and run the code one by one.
