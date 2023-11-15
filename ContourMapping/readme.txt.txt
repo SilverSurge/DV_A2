@@ -1,0 +1,1 @@
+open the "ContourMapping.ipynb" file and run all the cells one by one

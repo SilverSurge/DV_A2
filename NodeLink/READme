@@ -1,0 +1,5 @@
+The sampling_nodelLink_dataset.ipynb is created to sample the nodes from the dataset given which is triplets.txt.
+
+-> Run the code one by one to create the sampled dataset.
+
+-> This sampled dataset was then used in gephi to create the nodes.
